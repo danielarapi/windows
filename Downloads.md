@@ -51,7 +51,7 @@
 
 ```
 # ping with Timestamp
-Ping.exe -t spiceworks.com | ForEach {"{0} - {1}" -f (Get-Date),$_}
+Ping.exe -t google.com | ForEach {"{0} - {1}" -f (Get-Date),$_}
 
 hostname
 ipconfig /release
