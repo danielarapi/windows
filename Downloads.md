@@ -39,3 +39,14 @@
 - uBlock Origin
 - TeleParty
 - NordVPN
+
+## Online Tools
+- **Regular Expressions**: [Regex101](https://regex101.com/)
+- **Online Python Compiler**: [Programiz](https://www.programiz.com/python-programming/online-compiler/)
+- **Markdown Editor**: [Dillinger](https://dillinger.io/) or [StackEdit](https://stackedit.io/)
+- **Diagrams**: [Diagrams.net (formerly Draw.io)](https://app.diagrams.net/), [ASCII Textik](https://textik.com), [ASCII Flow](https://asciiflow.com/#/)
+- **Mind Map**: [xMind](https://xmind.app/)
+
+## Command Line
+- **Ping with Timestamp**: `Ping.exe -t spiceworks.com | ForEach {"{0} - {1}" -f (Get-Date),$_}`
+- **View Network Info**: 'ipconfig /all'
