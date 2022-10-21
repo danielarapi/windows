@@ -48,5 +48,15 @@
 - **Mind Map**: [xMind](https://xmind.app/)
 
 ## Command Line
-- **Ping with Timestamp**: `Ping.exe -t spiceworks.com | ForEach {"{0} - {1}" -f (Get-Date),$_}`
-- **View Network Info**: 'ipconfig /all'
+
+```
+# ping with Timestamp
+Ping.exe -t spiceworks.com | ForEach {"{0} - {1}" -f (Get-Date),$_}
+
+hostname
+ipconfig /release
+ipconfig /renew
+ipconfig/flushdns
+getmac
+arp -a
+```
