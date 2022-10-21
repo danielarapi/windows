@@ -8,7 +8,7 @@
 - **Uninstaller:** [CC Cleaner](https://www.ccleaner.com/)
 
 ## Social Media and Meetings
-- **Social:** [Discord](https://discord.com/), [WhatsApp](https://www.whatsapp.com/)
+- **Social:** [Discord](https://discord.com/) + [BetterDiscord](https://betterdiscord.app/), [WhatsApp](https://www.whatsapp.com/)
 - **Video**: [VLC Media Player](https://www.videolan.org/)
 
 ## Security
