@@ -6,6 +6,7 @@
 - **File Search:** [Everything](https://www.voidtools.com/)
 - **Disk Space**: [WinDirStat](https://windirstat.net/download.html)
 - **Uninstaller:** [CC Cleaner](https://www.ccleaner.com/)
+- **Screenshot**: [Greenshot](https://getgreenshot.org/)
 
 ## Social Media and Meetings
 - **Social:** [Discord](https://discord.com/) + [BetterDiscord](https://betterdiscord.app/), [WhatsApp](https://www.whatsapp.com/)
