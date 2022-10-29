@@ -1,3 +1,5 @@
+# Downloads for Windows 11
+
 ## Productivity
 - **Calendar**: [TickTick](https://ticktick.com/home)
 - **Note Taking:** [Evernote](https://evernote.com/)
@@ -23,6 +25,7 @@
 - **GitHub:** [GitHub Desktop](https://desktop.github.com/)
 - **SSH Client**: [PuTTy](https://www.putty.org/), [MobaXterm](https://mobaxterm.mobatek.net/)
 - **Packet Capture**: [Wireshark](https://www.wireshark.org/)
+- **Containerization**: [Docker](https://www.docker.com/)
 
 ## Editors and IDE
 - **Code Editor:** [Visual Studio Code](https://code.visualstudio.com/)
@@ -35,8 +38,7 @@
 - **Screen Recording**: [OBS Studio](https://obsproject.com/)
 
 ## Browser Extensions
-- Dashlane
-- Bitwarden
+- Keeper
 - uBlock Origin
 - TeleParty
 - NordVPN
